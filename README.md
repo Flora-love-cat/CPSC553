@@ -1,5 +1,4 @@
-# CPSC553
-Unsupervised learning for big data
+# CPSC553 Unsupervised learning for big data
 
 Topics:
 
