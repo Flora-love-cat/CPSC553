@@ -26,11 +26,3 @@ Topics:
   - entropy, mutual information
   - compare 2 distributions: cross entropy, total-variation distance, KL divergence, Jonsen-Shannon divergence, Earth Mover's distance, Maximum mean discrepancy
 
-- Neural network
-  - backpropagation, SGD with momentum
-  - Autoencoder
-  - VAE
-  - CNN, CAE
-  - GAN
-  - Sequential model, Word embedding
-  - GNN
